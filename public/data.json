@@ -1,0 +1,44 @@
+[
+    {
+        "_id": "6255474b37f995a44072d353",
+        "name": "Hall Room",
+        "discription": "RODEOMAD",
+        "img": "./images/hall-room.png"
+    },
+    {
+        "_id": "6255474b6e3c7171g738bc95",
+        "name": "Guest Room",
+        "discription": "SONGBIRD",
+        "img": "./images/guest-room.png"
+    },
+    {
+        "_id": "6255474bd2f2aec7adf464d8",
+        "name": "Dining Room",
+        "discription": "VERAQ",
+        "img": "./images/dining-room.png"
+    },
+    {
+        "_id": "6255474b59ae8443se530399",
+        "name": "Conference Room",
+        "discription": "FURNIGEER",
+        "img": "./images/conference-room.png"
+    },
+    {
+        "_id": "6255474b8283c718r46322b4",
+        "name": "Single Room",
+        "discription": "WAAB",
+        "img": "./images/single-room.png"
+    },
+    {
+        "_id": "6255474bd399679an1d1c665",
+        "name": "Reading Room",
+        "discription": "ZEPITOPE",
+        "img": "./images/reading-room.png"
+    },
+    {
+        "_id": "6255474bd399679av1d1c665",
+        "name": "Corporate Room",
+        "discription": "ZEPITOPE",
+        "img": "./images/corporate-room.png"
+    }
+]
