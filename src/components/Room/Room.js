@@ -15,7 +15,7 @@ const Room = ({ room }) => {
             <img width={"400px"} height={"300px"} src={img} alt="" />
             <h2>{name}</h2>
             <p>{discription}</p>
-            <button onClick={handleNavigate}>Book</button>
+            <button className='button' onClick={handleNavigate}>Book</button>
         </div>
     );
 };

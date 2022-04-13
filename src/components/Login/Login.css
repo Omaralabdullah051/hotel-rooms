@@ -23,6 +23,7 @@
 .input-group label {
     display: block;
     margin-left: 5px;
+    text-align: start;
 }
 
 .input-group input {
